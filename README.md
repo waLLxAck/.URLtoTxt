@@ -8,7 +8,8 @@ Creates **OR UPDATES** a .txt file (Name and URL.txt) containing the name and th
 
 ### Example:
 
-Files in directory: <br>
+Files in directory:
+
 `Homepage - Material Design.url`
 `.urlToTxt.py`
 
