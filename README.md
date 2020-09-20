@@ -22,3 +22,7 @@ Files in directory:
 File Name: Homepage - Material Design
 URL: https://material.io/ 
 ```
+
+### Another Example:
+
+![](https://media.giphy.com/media/kVPJgexwstizYoYBLy/giphy.gif)
