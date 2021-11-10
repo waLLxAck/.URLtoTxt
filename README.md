@@ -1,10 +1,10 @@
 ## .URLtoTxt
 
 .urlToTxt.py
-Creates a new **OR OVERRIDES** an existing .txt file (Name and URL.txt) containing the name and the URL links for all Internet shorcut (.url) files in the directory the file is run.
+Creates a new **OR OVERRIDES** an existing .txt file (Name and URL.txt) containing the name and the URL links for all Internet shortcut (.url) files in the directory the file is run.
 
 .urlToTxtUpdate.py
-Creates a new **OR UPDATES** an existing .txt file (Name and URL.txt) containing the name and the URL links for all Internet shorcut (.url) files in the directory the file is run.
+Creates a new **OR UPDATES** an existing .txt file (Name and URL.txt) containing the name and the URL links for all Internet shortcut (.url) files in the directory the file is run.
 
 ### Example:
 
